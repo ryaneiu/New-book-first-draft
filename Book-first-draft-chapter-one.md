@@ -39,7 +39,7 @@ S.
 
 Merry quickly slipped it into her pocket.
 
-“Why did you do tha--”, Iho began.
+“Why did you do tha—”, Iho began.
 “I don’t know,” Merry cut him off.
 
 That was true. Then, suddenly,
@@ -67,4 +67,4 @@ But on the floor, stretching inward from beneath it, was a _shadow_.
 
 It stopped at Merry’s feet.
 And raised one finger to its lips.
-Merry started to--
+Merry started to...
