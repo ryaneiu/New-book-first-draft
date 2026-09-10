@@ -58,7 +58,7 @@ Merry approached the counter. A note lay beside the register, written in ink tha
 > _Do **not** let it see your shadow._
 
 Merry read the sentence twice, three times,
-Then the bell above the entrance rang.
+then the bell above the entrance rang.
 
 She turned around.
 Nobody was there.
@@ -67,3 +67,4 @@ But on the floor, stretching inward from beneath it, was a _shadow_.
 
 It stopped at Merry’s feet.
 And raised one finger to its lips.
+Merry started to--
