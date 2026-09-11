@@ -27,8 +27,8 @@ What follows is a tale of shadows with a will of their own, hidden mechanisms, a
 
 ## Writing Progress
 
-- ✅ Chapter One: Complete
-- ✅ Chapter Two: Complete (partial)
+-  Chapter One: Complete
+-  Chapter Two: Complete (partial)
 - 🔄 More chapters to come...
 
 ## Genre
@@ -61,5 +61,5 @@ This work is original fiction. All rights reserved.
 
 ---
 
-**Author:** ryaneiu  
+**Author:** Ryan Xu
 **Started:** September 2026
