@@ -3,8 +3,10 @@ Chapter One: Being Late
 It was a sunny, beautiful day.
 Merry S. Vanier was late.
 This was normal.
+
 The streets of Bellweather were already crowded when she rushed from her house, carrying a wooden box of clockwork pieces under one arm. Shopkeepers raised their shutters. Fishing boats drifted into the harbour. Somewhere nearby, a merchant was loudly accusing a seagull of theft.
 Merry ignored all of it.
+
 The clockmaker would dismiss her if she arrived late **again**. He had said the same thing yesterday, and the day before that, but this time he had underlined _dismiss_ three times.
 She turned a corner.
 Someone crashed into her.
@@ -39,7 +41,7 @@ S.
 
 Merry quickly slipped it into her pocket.
 
-“Why did you do tha—”, Iho began.
+“Why did you do tha—” Iho began.
 “I don’t know,” Merry cut him off.
 
 That was true. Then, suddenly,
@@ -50,7 +52,7 @@ The door was unlocked.
 The lamps were burning.
 Her employer was gone.
 
-“Mister Gable?”, she asked.
+“Mister Gable?” she asked.
 
 There was no answer. She saw no one, not even a shadow. The only sound was a fly buzzing. Mr. Gable must have left a window open — which, by the way, happened very, and I mean very, rarely, even in spring or autumn.
 Merry approached the counter. A note lay beside the register, written in ink that was still wet.
