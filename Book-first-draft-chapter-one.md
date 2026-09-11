@@ -7,7 +7,7 @@ This was normal.
 The streets of Bellweather were already crowded when she rushed from her house, carrying a wooden box of clockwork pieces under one arm. Shopkeepers raised their shutters. Fishing boats drifted into the harbour. Somewhere nearby, a merchant was loudly accusing a seagull of theft.
 Merry ignored all of it.
 
-The clockmaker would dismiss her if she arrived late **again**. He had said the same thing yesterday, and the day before that, but this time he had underlined _dismiss_ three times.
+The clockmaker would dismiss her if she arrived late _**again**_. He had said the same thing yesterday, and the day before that, but this time he had underlined _dismiss_ three times.
 She turned a corner.
 Someone crashed into her.
 The box flew open. Gears, springs, and screws scattered across the pavement.
