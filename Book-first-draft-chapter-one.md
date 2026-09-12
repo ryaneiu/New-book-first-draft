@@ -1,4 +1,4 @@
-Chapter One: Being Late
+# Chapter One: Being Late
 
 It was a sunny, beautiful day.
 Merry S. Vanier was late.
