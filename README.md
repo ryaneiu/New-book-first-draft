@@ -22,14 +22,15 @@ What follows is a tale of shadows with a will of their own, hidden mechanisms, a
 ```
 📄 Book-first-draft-chapter-one.md  - Chapter 1: The introduction
 📄 Book-first-draft-chapter-two.md  - Chapter 2: The escalation
+📄 Book-first-draft-chapter-three.md - Chapter 3: The elaboration
 📄 README.md                         - This file
 ```
 
 ## Writing Progress
 
 -  Chapter One: Complete
--  Chapter Two: Complete (partial)
-- 🔄 More chapters to come...
+-  Chapter Two: Complete
+-  Chapter Three: Complete
 
 ## Genre
 
