@@ -16,6 +16,7 @@ What follows is a tale of shadows with a will of their own, hidden mechanisms, a
 
 - **Chapter One: Being Late** - Merry's rush to work and her fateful encounter with Iho introduce a mysterious key and an even stranger threat.
 - **Chapter Two: Panic** - Trapped in the clockmaker's shop with a shadow entity, Merry must use her discovered key to survive.
+- **Chapter Three: Family Surprise** - Merry discovers her third degree cousin, Cassandra / Mrs. Shadowkale, runs a market pantry. Merry asks for information on the shadow entity. Cassandra tells her about the Shadow-key and how it runs down the family, then proceeds to secure the door with three separate deadbolts.
 
 ## Structure
 
