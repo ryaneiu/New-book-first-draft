@@ -56,6 +56,8 @@ This story features:
 
 This is a personal creative writing project. Feel free to share feedback or suggestions via GitHub issues or discussions.
 
+My goal is to write 20 chapters.
+
 ## License
 
 This work is original fiction. All rights reserved.
