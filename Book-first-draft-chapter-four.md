@@ -5,10 +5,17 @@ Cassandra told her, or rather screamed, "*HIDE!!!* No questions asked". Merry di
 "To the emergency exit!" Cassandra ordered.
 Merry acquiesed, and went through the back door.
 When they went out, it was *like* normal, but the shadows all froze in place.
-Merry whispered under her breath, just soft enough to be out of earshot from others, but for her cousin to hear her, "So if you have the key, your shadow gives you orders, but if you're exempt of it, your shadow freezes. Who is behind all of it?"
+Merry whispered under her breath, just soft enough to be out of earshot from others, but for her cousin to hear her, 
+"So if you have the key, your shadow gives you orders, but if you're exempt of it, your shadow freezes. Who is behind all of it?"
+
 Cassandra replied, "The Eraser."
+
 "Who's that?"
+
 "An entity, in a faraway land. If disturbed, he gets control over the person's memories and shadows. The only known two protections are either the Shadow-key or defeat him."
+
 Merry felt a shiver go down her spine.
+
 "What was Iho's intention to give the parcel to someone else?"
+
 "I have no clue."
