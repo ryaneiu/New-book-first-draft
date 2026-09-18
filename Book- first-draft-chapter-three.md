@@ -23,20 +23,20 @@ Merry blinked, rubbing the dust from her eyes.
 
 The woman dropped the pan with a loud clatter against the floorboards, her jaw falling open. 
 
-"MERRY??? What are you **doing** here??"
+"MERRY??? What the — What are you **doing** here??"
 
 “I just stumbled in here, but where are we?”
 
-“‘Where are we??’ This is my pantry!”
+“‘Where are we??’ This is my market pantry!”
 
 "Your pantry?!" Merry yelled, brushing onion skins off her jeans. "Why is there a secret tunnel connected to your pantry?!"
 
 The other woman kicked a stray potato out of the way and marched over, crossing her arms. "I should be asking why you are trespassing through my potato storage! You're supposed to be at the clock shop!"
 
-"The shop is gone—I mean, Mr. Gable is gone!" Merry stammered, her voice cracking as the panic rushed back. "There was a thing, Cassandra. A flat, moving shadow. It froze a fly in mid-air. It went after me!"
+"The shop is gone — I mean, Mr. Gable is gone!" Merry stammered, her voice cracking as the panic rushed back. "There was a thing, my cousin. A flat, moving shadow. It froze a fly in mid-air. It went after me!"
 Cassandra’s strict expression instantly melted into pure shock.
 
-"A shadow entity? In the daylight?"
+"A shadow entity? In the plain daylight?"
 
 "Yes! And that's not even the worst part," Merry whispered, clutching her head as the faint murmurings in her ears grew louder. "I think I'm having a medical crisis. I'm hearing voices, Cassandra. They know my name. I’m actually losing my mind."
 
@@ -44,7 +44,7 @@ Cassandra, also known as Mrs. Shadowkale, didn't look at her like she was crazy.
 
 "Merry," she said, her voice dropping to a serious, low tone. "What is that in your hand?"
 
-Merry blinked and opened her palm, revealing the small black key. The carved letter *S* seemed to catch the dim pantry light, radiating a faint, icy mist.
+Merry blinked and opened her palm, revealing the small black key. The carved letter *S.* seemed to catch the dim pantry light, radiating a faint, icy mist.
 Cassandra gasped, stumbling backward into a shelf of canned goods. 
 
 "The Shadow-key. It's real."
