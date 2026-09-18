@@ -42,7 +42,7 @@ Fantasy / Paranormal / Contemporary Fantasy
 - **Iho** - A delivery boy whose chance meeting with Merry changes everything
 - **Mr. Gable** - Merry's employer, a clockmaker with knowledge of the supernatural threats in Bellweather
 - **The Shadow** - A mysterious, sentient entity that hunts in the clockmaker's shop
-- **Mrs. Shadowkale** - Merry's third degree cousin and bearer of the family secret
+- **Mrs. Shadowkale / Cassandra S. Vanier** - Merry's third degree cousin and bearer of the family secret
 - **The Eraser** - The antagonist
 
 ## Writing Style
