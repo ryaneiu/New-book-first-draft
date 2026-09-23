@@ -23,7 +23,7 @@ Merry blinked, rubbing the dust from her eyes.
 
 The woman dropped the pan with a loud clatter against the floorboards, her jaw falling open. 
 
-"MERRY??? What the — What are you **doing** here??"
+"MERRY??? What the — What are you **_doing_** here??"
 
 “I just stumbled in here, but where are we?”
 
