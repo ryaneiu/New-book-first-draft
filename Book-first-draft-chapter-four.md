@@ -12,10 +12,16 @@ Cassandra replied, "The Eraser."
 
 "Who's that?"
 
-"An entity, in a faraway land. If disturbed, he gets control over the person's memories and shadows. The only known two protections are either the Shadow-key or defeat him."
+"An entity, in a faraway land. If disturbed, he gets control over the person's memories and shadows. The only known two protections are either the Shadow-key or defeat him. If you do the latter, the whole village of Bellweather goes back to normal, but if you have the former, only you get the protection."
 
 Merry felt a shiver go down her spine.
 
 "What was Iho's intention to give the parcel to someone else?"
 
 "I have no clue."
+
+"Well, we may or may never find out."
+
+Merry continued, "How do you defeat him?"
+
+Cassandra recited, "By day and night, our ancestors have tried to get rid of him, because he does a disturbance when he's hungry, which happens about once per fifty years."
