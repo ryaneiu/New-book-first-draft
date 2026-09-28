@@ -1,37 +1,46 @@
 # New Book First Draft
 
-A fantasy fiction story in progress, featuring the tale of Merry S. Vanier, a clock-bearer living in the mysterious town of Bellweather.
+A fantasy fiction story in progress, following Merry S. Vanier as she uncovers the hidden machinery beneath Bellweather and confronts a threat that can steal memories, silence shadows, and erase people from the world.
 
 ## Overview
 
-This repository contains the first draft of an original fantasy novel. The story follows Merry, a young woman who works for a clockmaker in a town shrouded in strange and supernatural occurrences.
+This repository contains the first draft of an original fantasy novel set in the town of Bellweather. The story follows Merry, a young woman who works in a clockmaker’s shop and is perpetually late, until a chance encounter with a black key and a living shadow pull her into a much deeper mystery.
 
 ## Story Summary
 
-In the town of Bellweather, Merry S. Vanier is perpetually late—a trait that puts her job at the clockmaker's shop in jeopardy. One fateful morning, a chance collision with a delivery boy named Iho leads to the discovery of a mysterious black key marked with the letter "S." When she arrives at the shop, she finds her employer missing and a cryptic note warning: *"Do not let it see your shadow."*
+In Bellweather, being late is ordinary. For Merry S. Vanier, it is a habit that may soon cost her her job.
 
-What follows is a tale of shadows with a will of their own, hidden mechanisms, and secrets that lurk beneath the everyday world.
+One morning, a collision with a delivery boy named Iho sends a strange black key into her pocket. The key bears the letter S and feels colder than metal should ever feel. Shortly after, her employer disappears, a note warns her not to let any shadow see her own, and a featureless shape begins to move beneath the shop door.
+
+Merry learns that Bellweather is not simply a curious old town, but a place built over ancient mechanisms and forgotten protections. Beneath the streets lies a hidden history of clockwork, shadow-warding, and an entity known as the Eraser — a force that devours memory and erases what should not be forgotten.
+
+As the mystery unfolds, Merry must navigate a town full of secrets, a family history she barely understands, and a danger that may have been waiting beneath Bellweather for far longer than anyone remembers.
 
 ## Chapters
 
-- **Chapter One: Being Late** - Merry's rush to work and her fateful encounter with Iho introduce a mysterious key and an even stranger threat.
-- **Chapter Two: Panic** - Trapped in the clockmaker's shop with a shadow entity, Merry must use her discovered key to survive.
-- **Chapter Three: Family Surprise** - Merry discovers her third degree cousin, Cassandra / Mrs. Shadowkale, runs a market pantry. Merry asks for information on the shadow entity. Cassandra tells her about the Shadow-key and how it runs down the family, then proceeds to secure the door with three separate deadbolts.
+- Chapter One: Being Late — Complete
+- Chapter Two: Panic — Complete
+- Chapter Three: Family Surprise — Complete
+- Chapter Four: Trapped? — Complete
+- Future chapters: planned as the story continues
 
 ## Structure
 
-```
-📄 Book-first-draft-chapter-one.md  - Chapter 1: The introduction
-📄 Book-first-draft-chapter-two.md  - Chapter 2: The escalation
-📄 Book-first-draft-chapter-three.md - Chapter 3: The elaboration
-📄 README.md                         - This file
+```text
+📄 Book-first-draft-chapter-one.md      - Chapter 1: The introduction
+📄 Book-first-draft-chapter-two.md      - Chapter 2: The escalation
+📄 Book- first-draft-chapter-three.md    - Chapter 3: The family reveal
+📄 Book-first-draft-chapter-four.md     - Chapter 4: The deeper mystery
+📄 README.md                            - Project overview
 ```
 
 ## Writing Progress
 
--  Chapter One: Complete
--  Chapter Two: Complete
--  Chapter Three: Complete
+- Chapter One: Complete
+- Chapter Two: Complete
+- Chapter Three: Complete
+- Chapter Four: Complete
+- Story expansion: ongoing
 
 ## Genre
 
@@ -39,27 +48,22 @@ Fantasy / Paranormal / Contemporary Fantasy
 
 ## Characters
 
-- **Merry S. Vanier** - The protagonist; a young clock-bearer struggling with punctuality and caught in extraordinary circumstances
-- **Iho** - A delivery boy whose chance meeting with Merry changes everything
-- **Mr. Gable** - Merry's employer, a clockmaker with knowledge of the supernatural threats in Bellweather
-- **The Shadow** - A mysterious, sentient entity that hunts in the clockmaker's shop
-- **Mrs. Shadowkale / Cassandra S. Shadowkale Vanier** - Merry's third degree cousin and bearer of the family secret
-- **The Eraser** - The antagonist
+- Merry S. Vanier — The protagonist; a clock-bearer who is constantly late and suddenly tangled in a supernatural conspiracy.
+- Iho — A delivery boy whose chance meeting with Merry sets the story in motion.
+- Mr. Gable — Merry’s employer and a keeper of hidden knowledge about Bellweather.
+- Cassandra / Mrs. Shadowkale — Merry’s third-degree cousin, with secrets of her own and a clearer understanding of the town’s dangers.
+- The Shadow — A silent, hungry entity that moves in the dark and obeys forces beyond ordinary sight.
+- The Eraser — The main antagonist, a dangerous being connected to memory loss, shadow, and older mechanisms buried beneath the town.
 
 ## Writing Style
 
-This story features:
-- Atmospheric world-building set in the town of Bellweather
-- Mix of mundane reality and supernatural elements
-- Character-driven narrative with engaging dialogue
-- Suspenseful pacing and mystery
-- Vivid sensory descriptions
+This story blends atmospheric world-building, mysterious tension, and supernatural suspense. It is grounded in everyday life while slowly revealing a deeper myth beneath Bellweather’s streets and storefronts.
 
 ## Contributing
 
-This is a personal creative writing project. Feel free to share feedback or suggestions via GitHub issues or discussions.
+This is a personal creative writing project. Feedback and suggestions are welcome through GitHub issues or discussions.
 
-My goal is to write 20 chapters.
+The story is intended to continue beyond the opening chapters and expand toward a larger arc exploring Bellweather’s hidden history and the true purpose of the Shadow-key.
 
 ## License
 
@@ -67,5 +71,5 @@ This work is original fiction. All rights reserved.
 
 ---
 
-**Author:** Ryan Xu
-**Started:** September 2026
+Author: Ryan Xu
+Started: September 2026
