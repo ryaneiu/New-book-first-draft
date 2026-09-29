@@ -52,4 +52,4 @@ Merry closed her eyes. She thought of Mr. Gable's note. His terror at seeing the
 
 She opened her eyes and looked at the Eraser.
 
-"No," she said.
+"No," she said. 
