@@ -41,8 +41,15 @@ As the mystery unfolds, Merry descends into the underground chambers beneath Bel
 - Chapter Six: Complete
 - Story expansion: ongoing
 
-## Word count
+## Word count: Including Titles
 
+Chapter One: 423 words
+Chapter Two: 497 words
+Chapter Three: 509 words
+Chapter Four: 835 words
+Chapter Five: 945 words
+Chapter Six: 1304 words
+Total: 4513 words
 
 ## Genre
 
