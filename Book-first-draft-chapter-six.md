@@ -62,4 +62,4 @@ The Eraser reached out and took the key from her hand. For the first time, it sm
 
 "Welcome, Merry S. Vanier," the Eraser whispered. "Welcome to the real work."
 
-Above them, the streets of Bellweather continued on, unaware that everything had changed. And somewhere in the city, a delivery boy in a uniform finally allowed himself to smile, knowing that at least this one burden had been passed to someone strong enough to carry it differently.
+Above them, the streets of Bellweather continued on, unaware that everything had changed. And somewhere in the city, a delivery boy in a uniform finally allowed himself to smile, knowing that at least this one burden had been passed to someone strong enough to carry it differently. 
