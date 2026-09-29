@@ -18,16 +18,6 @@ Merry learns that Bellweather is not simply a curious old town, but a place buil
 
 As the mystery unfolds, Merry descends into the underground chambers beneath Bellweather and comes face-to-face with the Eraser. Rather than fighting against the key's binding force, she makes a bold choice: to work with the creature, to learn from it, and to challenge the cycle of fear and silence that has defined her town for over two centuries. In doing so, she sets herself on a path toward either salvation or catastrophe—and discovers that the true danger may not be the Eraser at all, but what her ancestors chose to hide.
 
-## Chapters
-
-- Chapter One: Being Late — Complete (2,477 words)
-- Chapter Two: Panic — Complete (3,000 words)
-- Chapter Three: Family Surprise — Complete (3,101 words)
-- Chapter Four: Trapped? — Complete (4,734 words)
-- Chapter Five: Beneath the Streets — Complete (5,522 words)
-- Chapter Six: The Weight of Holding — Complete (7,623 words)
-
-**Total Word Count: 26,457 words**
 
 ## File Structure
 
@@ -50,6 +40,9 @@ As the mystery unfolds, Merry descends into the underground chambers beneath Bel
 - Chapter Five: Complete
 - Chapter Six: Complete
 - Story expansion: ongoing
+
+## Word count
+
 
 ## Genre
 
