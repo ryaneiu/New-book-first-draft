@@ -12,7 +12,7 @@ In Bellweather, being late is ordinary. For Merry S. Vanier, it is a habit that 
 
 One morning, a collision with a delivery boy named Iho sends a strange black key into her pocket. The key bears the letter S and feels colder than metal should ever feel. Shortly after, her employer Mr. Gable vanishes, leaving only a cryptic warning: "Do not let it see your shadow."
 
-When a shadow that casts no body appears in the clockmaker's shop, Merry discovers that Bellweather is far stranger than she ever imagined. Shadows move of their own accord. People speak in riddles and half-truths. And something ancient stirs beneath the cobbled streets.
+When a shadow that casts no body appears in the clockmaker's shop, Merry discovers that Bellweather is far stranger than she ever imagined. Shadows move of their own accord. People speak in riddles and half-truths. And something ancient stirs beneath the cobbled streets. 
 
 Merry learns that Bellweather is not simply a curious old town, but a place built over ancient mechanisms and forgotten protections. Beneath the streets lies a hidden history of clockwork, shadow-binding, and memory manipulation. Her family, particularly her cousin Cassandra, holds secrets about an entity known as the Eraser—a creature bound beneath the town by a key that has passed through generations of guardians.
 
