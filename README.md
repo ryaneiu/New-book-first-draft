@@ -50,7 +50,7 @@ As the mystery unfolds, Merry descends into the underground chambers beneath Bel
 - Chapter Five: 945 words
 - Chapter Six: 1304 words
 - Chapter Seven: 1841 words
-- Total: 6534 words
+- Total: 6354 words
 
 ## Genre
 
