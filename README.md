@@ -27,8 +27,8 @@ As the mystery unfolds, Merry descends into the underground chambers beneath Bel
 📄 Book-first-draft-chapter-four.md      - Chapter 4: Trapped?
 📄 Book-first-draft-chapter-five.md      - Chapter 5: Beneath the Streets
 📄 Book-first-draft-chapter-six.md       - Chapter 6: The Weight of Holding
-📄 Book-first-draft-chapter-seven.md     - Chapter 7: The Hollowing
-📄 Book-first-draft-chapter-eight.md     - Chapter 8: The City Beneath the Clock
+📄 Book-first-draft-chapter-seven.md     - Chapter 7: The First Lesson
+📄 Book-first-draft-chapter-eight.md     - Chapter 8: The  Weight of Knowing
 📄 README.md                             - Project overview
 ```
 
@@ -63,6 +63,7 @@ Fantasy / Paranormal / Contemporary Fantasy
 ## Characters
 
 - **Merry S. Vanier** — The protagonist; a clock-bearer who is constantly late and suddenly tangled in a supernatural conspiracy. She possesses unusual moral courage and a willingness to question the lies hidden beneath Bellweather.
+- **Meredith** — Merry's great-great-grandmother, creator of the Shadow-key.
 - **Iho** — A delivery boy whose chance meeting with Merry sets the story in motion. He carries a burden of his own as the previous holder of the black key.
 - **Mr. Gable** — Merry's employer and a keeper of hidden knowledge about Bellweather. He flees when the shadow appears, leaving behind cryptic warnings.
 - **Cassandra / Mrs. Shadowkale** — Merry's third-degree cousin, with secrets of her own and a clearer understanding of the town's dangers. She is bound by family duty to protect Bellweather's secrets.
