@@ -29,6 +29,8 @@ As the mystery unfolds, Merry descends into the underground chambers beneath Bel
 - Chapter Six: Complete
 - Chapter Seven: Complete
 - Chapter Eight: Complete
+- Chapter Nine: Complete
+- Chapter Ten: Complete
 - Story expansion: ongoing
 
 ## Word count: Including Titles
@@ -42,7 +44,8 @@ As the mystery unfolds, Merry descends into the underground chambers beneath Bel
 - Chapter Seven: 1841 words
 - Chapter Eight: 2177 words
 - Chapter Nine: 2314 words
-- Total: 10845 words
+- Chapter Ten: 3249 words
+- Total: 14094 words
 
 ## Genre
 
