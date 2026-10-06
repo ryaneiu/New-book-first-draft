@@ -18,19 +18,6 @@ Merry learns that Bellweather is not simply a curious old town, but a place buil
 
 As the mystery unfolds, Merry descends into the underground chambers beneath Bellweather and comes face-to-face with the Eraser. Rather than fighting against the key's binding force, she makes a choice that changes the shape of her destiny and the town itself.
 
-## File Structure
-
-```text
-📄 Book-first-draft-chapter-one.md       - Chapter 1: Being Late
-📄 Book-first-draft-chapter-two.md       - Chapter 2: Panic
-📄 Book-first-draft-chapter-three.md     - Chapter 3: Family Surprise
-📄 Book-first-draft-chapter-four.md      - Chapter 4: Trapped?
-📄 Book-first-draft-chapter-five.md      - Chapter 5: Beneath the Streets
-📄 Book-first-draft-chapter-six.md       - Chapter 6: The Weight of Holding
-📄 Book-first-draft-chapter-seven.md     - Chapter 7: The First Lesson
-📄 Book-first-draft-chapter-eight.md     - Chapter 8: The  Weight of Knowing
-📄 README.md                             - Project overview
-```
 
 ## Writing Progress
 
@@ -54,7 +41,8 @@ As the mystery unfolds, Merry descends into the underground chambers beneath Bel
 - Chapter Six: 1304 words
 - Chapter Seven: 1841 words
 - Chapter Eight: 2177 words
-- Total: 8531 words
+- Chapter Nine: 2314 words
+- Total: 10845 words
 
 ## Genre
 
