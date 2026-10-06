@@ -100,9 +100,9 @@ A memory threshold.
 
 A place where private recollection could be made public, where one person's story could be lifted and carried by the city until it became a shared burden.
 
-The note beneath it was stamped with a warning, all caps in the same hand.
+The note beneath it was stamped with a warning, all capitals in the same hand.
 
-NOT EVERY STORY SHOULD BE SHARED.
+> **NOT EVERY STORY SHOULD BE SHARED.**
 
 Merry saw then, with a kind of sick clarity, what the city had been built to prevent: not just the destruction of memory, but the destruction of personal identity by collective remembrance.
 
