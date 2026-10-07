@@ -1,4 +1,4 @@
-# New Book First Draft
+# The Day Their Shadows Froze
 
 A fantasy fiction story in progress, following Merry S. Vanier as she uncovers the hidden machinery beneath Bellweather and confronts a threat that can steal memories, silence shadows, and erase people from the world.
 
