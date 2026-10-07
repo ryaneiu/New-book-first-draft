@@ -31,7 +31,7 @@ As the mystery unfolds, Merry descends into the underground chambers beneath Bel
 - Chapter Eight: Complete
 - Chapter Nine: Complete
 - Chapter Ten: Complete
-- Story expansion: ongoing
+- Story expansion: Done, but to be continued in next book
 
 ## Word count: Including Titles
 
