@@ -83,4 +83,4 @@ This work is original fiction. Names of people, places, events or locales are fr
 
 Author: Ryan Xu  
 Started: September 2026  
-Last Updated: September 28, 2026
+Last Updated: October 13th, 2026
