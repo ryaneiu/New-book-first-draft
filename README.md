@@ -49,7 +49,7 @@ As the mystery unfolds, Merry descends into the underground chambers beneath Bel
 - Chapter Ten: 3249 words
 - Chapter Eleven: 3040 words
 - Chapter Twelve: 2528 words
-- Total: 19682 words
+- Total: 19662 words
 
 ## Genre
 
