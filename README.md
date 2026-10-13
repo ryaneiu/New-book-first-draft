@@ -71,7 +71,7 @@ This story blends atmospheric world-building, mysterious tension, and supernatur
 
 This is a personal creative writing project. Feedback and suggestions are welcome through GitHub issues or discussions.
 
-The story is intended to continue beyond Chapter Eight and expand toward a larger arc exploring Bellweather's hidden history, the true purpose of the Shadow-key, and the consequences of Merry's decisions.
+
 
 ## License
 
