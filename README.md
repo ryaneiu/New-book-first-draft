@@ -73,7 +73,7 @@ The story is intended to continue beyond Chapter Eight and expand toward a large
 
 ## License
 
-This work is original fiction. All rights reserved.
+This work is original fiction. Names of people, places, events or locales are from the author's imagination or are used fictiously. All resemblance to actual people, living or deceased, events, dialogue or locales is entirely coincidental. All rights reserved.
 
 ---
 
